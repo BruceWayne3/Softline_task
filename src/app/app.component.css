@@ -1,0 +1,17 @@
+.csv-file-chooser-section {
+    padding: 10px;
+    margin: 5%;
+    text-align: center;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  h1 {
+    text-align: center;
+  }
